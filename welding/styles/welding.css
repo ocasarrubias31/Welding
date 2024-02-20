@@ -31,6 +31,9 @@ body {
     padding: 20px;
     columns: white;
 }
+.logo{
+    max-width: 150px;
+}
 
 h2 {
     color: white;
@@ -52,4 +55,7 @@ h2 {
 
 .email:hover {
     color: blue;
+}
+.goal{
+    color: #fff;
 }
