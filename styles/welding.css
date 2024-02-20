@@ -10,7 +10,7 @@ body {
     text-align: center;
     font-weight: bold;
     padding: 20px;
-    color: white;
+    color: #fff;
 }
 
 .imagecontainer {
@@ -41,7 +41,7 @@ h2 {
 }
 
 .service {
-    color: white;
+    color: #fff;
     font-size: 25px;
 }
 
